@@ -10,7 +10,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task2.V23
             Console.Title = "Спринт #4 | Выполнил: Пузина Д. А. | ИИПБ-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
+            Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                   *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Пузина Дарья Алексеевна | ИИПБ-24-1                           *");
