@@ -9,7 +9,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task1.V6
             Console.Title = "Спринт #4 | Выполнил: Пузина Д. А. | ИИПБ-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                             *");
+            Console.WriteLine("* Тема: Одномерные массивы. (ввод с клавиатуры)                           *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
             Console.WriteLine("* Выполнил: Пузина Дарья Алексеевна | ИИПБ-24-1                           *");
