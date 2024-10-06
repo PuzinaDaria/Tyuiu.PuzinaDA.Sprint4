@@ -11,7 +11,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task5.V14
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (генератор случайных чисел)                    *");
-            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Пузина Дарья Алексеевна | ИИПБ-24-1                           *");
             Console.WriteLine("***************************************************************************");
