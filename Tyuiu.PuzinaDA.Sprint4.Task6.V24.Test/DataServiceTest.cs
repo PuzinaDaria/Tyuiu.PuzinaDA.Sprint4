@@ -9,7 +9,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task6.V24.Test
         {
             DataService ds = new DataService();
             string[] array = ["Компьютер", "Телефон", "Планшет", "Принтер", "Сканер", "Монитор", "Клавиатура"];
-            string[] wait = ["Телефон", "Планшет", "Принтер", "Монитор"];
+            string[] wait = ["Компьютер", "Клавиатура"];
             string[] res = ds.Calculate(array);
             CollectionAssert.AreEqual(wait, res);
         }

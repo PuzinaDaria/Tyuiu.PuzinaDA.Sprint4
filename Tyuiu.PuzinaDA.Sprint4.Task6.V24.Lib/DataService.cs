@@ -5,7 +5,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task6.V24.Lib
     {
         public string[] Calculate(string[] array)
         {
-            string[] result = Array.FindAll(array, x => x.Length == 7);
+            string[] result = Array.FindAll(array, x => x.Length > 7);
             return result;
         }
     }
