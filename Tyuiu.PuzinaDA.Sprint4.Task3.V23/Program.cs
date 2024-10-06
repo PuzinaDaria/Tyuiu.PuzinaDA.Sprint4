@@ -9,7 +9,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task3.V23
             Console.Title = "Спринт #4 | Выполнил: Пузина Д. А. | ИИПБ-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *");
+            Console.WriteLine("* Тема: Двумерные массивы. (ввод с клавиатуры)                            *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Пузина Дарья Алексеевна | ИИПБ-24-1                           *");
