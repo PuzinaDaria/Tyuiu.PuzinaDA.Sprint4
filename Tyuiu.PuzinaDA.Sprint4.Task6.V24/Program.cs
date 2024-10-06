@@ -10,7 +10,7 @@ namespace Tyuiu.PuzinaDA.Sprint4.Task6.V24
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Класс Array                                                       *");
-            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнил: Пузина Дарья Алексеевна | ИИПБ-24-1                           *");
             Console.WriteLine("***************************************************************************");
